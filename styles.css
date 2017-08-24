@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+body{
+    margin: 0px auto;
+    max-width: 1150px;
+}
+#pictures{
+    display: inline-block;
+    width: 750px;
+}
+#pokedex{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 64px;
+    border: 16px solid red;
+    padding: 8px;
+}
